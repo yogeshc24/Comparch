@@ -3,7 +3,7 @@
 Student: Yogesh Chaudhary (916969303)
 
 ## Project Status
-Finish the 3-bit comparator and grey
+All circuits working properly
 
 ## Known Issues
 The project fails to function properly in ...
